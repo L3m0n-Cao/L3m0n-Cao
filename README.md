@@ -1,0 +1,5 @@
+- 👋 Hi, I’m L3m0n Cao!
+- 👀 I’m interested in Websockets, Projects with Python/NodeJS and servers.
+- 🌱 I’m currently learning C#/C++
+- 💞️ I’m looking to collaborate on Multiplayer Piano Clones and Anything to do with websockets/servers.
+- 📫 How to reach me: l3m0n@l3m0ncao.live
