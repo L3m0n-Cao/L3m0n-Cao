@@ -1,6 +1,6 @@
 - 👋 Hi, I’m L3m0n Cao!
-- 📜 I'm currently working on WAFlash Rewritten
-- 👀 I’m interested in Websockets, Projects with Python/NodeJS and servers.
-- 🌱 I’m currently learning C#/C++
+- 📜 I'm currently working on Websites
+- 👀 I’m interested in Websockets, Projects with Nodejs, Rust and servers.
+- 🌱 I’m currently learning Nothing.
 - 💞️ I’m looking to collaborate on Multiplayer Piano Clones and Anything to do with websockets/servers.
 - 📫 How to reach me: l3m0n@l3m0ncao.wtf
