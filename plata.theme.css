@@ -1,0 +1,26 @@
+/**
+ * @name Senpa1
+ * @author Platapai
+ * @version 1.0
+ * @description Simple Theme For Senpa1
+ * @invite ypWFgGaej8
+ * @authorId 1030414034484342844
+*/
+
+@import url('https://raw.githubusercontent.com/L3m0n-Cao/L3m0n-Cao/main/rd.css');
+@import url('https://raw.githubusercontent.com/L3m0n-Cao/L3m0n-Cao/main/rs.css');
+
+:root {
+  --background-image: url('https://github.com/L3m0n-Cao/L3m0n-Cao/blob/main/ds.png?raw=true');
+  --popup-background: url('https://github.com/L3m0n-Cao/L3m0n-Cao/blob/main/ds.png?raw=true');
+  --background-blur: 4px;
+  --background-darkness: 0.55;
+  --main-color: #21828C;
+  --hover-color: #064956;
+  --roundness: 50px;
+  --shadow: rgb(75,75,75,0.4);
+}
+
+/* Any custom CSS below here */
+
+
