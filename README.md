@@ -19,6 +19,7 @@
 const info = {
   name: "Erisa",
   nicknames: ["L3m0n", "Platapai"],
+  nationality: ["Australian", "Japanese", "Vietnamese"],
 
   pronouns: "any",
   gender: "female",
