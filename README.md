@@ -26,7 +26,7 @@ const info = {
   sexuality: "lesbian",
 
   hobbies: ["Coding", "Drawing", "Editing", "Music", "Photography"],
-  languages: [C, CSS, C#, C++, HTML, Java, Javascript, Lua, Python, Ruby, Rust, Typescript]
+  languages: ["C", "CSS", "C#", "C++", "HTML", "Java", "Javascript", "Lua", "Python", "Ruby", "Rust", "Typescript"]
 }
 
 const contact = {
